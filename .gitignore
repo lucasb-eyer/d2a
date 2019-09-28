@@ -1,0 +1,16 @@
+deathmap/img/
+deathmap/img_pub/
+__pycache__
+replay/ti2019/files/
+old/
+venv
+deathmap/deaths
+.ipynb_checkpoints/
+*.log
+
+# Very specific to this project
+*.log.meta
+*-huge.png
+README.lucas.md
+deathmap/libheatmap.so
+replay/ti2019/ti9.html
