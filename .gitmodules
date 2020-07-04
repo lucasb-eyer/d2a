@@ -1,0 +1,3 @@
+[submodule "winpct/dotaconstants"]
+	path = winpct/dotaconstants
+	url = https://github.com/odota/dotaconstants.git
